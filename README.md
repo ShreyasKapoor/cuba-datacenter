@@ -1,4 +1,4 @@
-#CUBA - CU Boulder Assistant
+# CUBA - CU Boulder Assistant
 
 A chatbot for all Students and Faculties.
 
